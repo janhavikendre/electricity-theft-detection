@@ -1,0 +1,4 @@
+Method,ROC-AUC,Top 5% precision (%)
+Random inspection,0.5,8.5
+Isolation Forest (no labels),0.577,20.4
+XGBoost (with labels),0.803,51.9
